@@ -1,0 +1,306 @@
+$date
+	Sat Jun 21 00:47:00 2025
+$end
+
+$version
+	Synopsys VCS version U-2023.03-SP2_Full64
+$end
+
+$timescale
+	1ns
+$end
+
+$comment Csum: 1 e4a8e741b38ba57b $end
+
+
+$scope module $unit $end
+$upscope $end
+
+
+$scope module top_tb $end
+
+$scope begin unnamed$$_vcs_1 $end
+$upscope $end
+
+
+$scope begin B1 $end
+$upscope $end
+
+
+$scope begin unnamed$$_vcs_0 $end
+$upscope $end
+
+
+$scope module avif $end
+$var reg 1 ! aclk $end
+$var reg 1 " arst $end
+$var reg 4 # a [3:0] $end
+$var reg 4 $ b [3:0] $end
+$var reg 5 % y [4:0] $end
+$upscope $end
+
+
+$scope module svif $end
+$var reg 1 ! sclk $end
+$var reg 1 & srst $end
+$var reg 4 ' m [3:0] $end
+$var reg 4 ( n [3:0] $end
+$var reg 5 ) z [4:0] $end
+$upscope $end
+
+
+$scope module dut $end
+$var reg 1 ! aclk $end
+$var reg 1 * arst $end
+$var reg 1 ! sclk $end
+$var reg 1 + srst $end
+$var reg 4 , a [3:0] $end
+$var reg 4 - b [3:0] $end
+$var reg 4 . m [3:0] $end
+$var reg 4 / n [3:0] $end
+$var reg 5 0 y [4:0] $end
+$var reg 5 1 z [4:0] $end
+
+$scope module a1 $end
+$var reg 1 ! aclk $end
+$var reg 1 * arst $end
+$var reg 4 , a [3:0] $end
+$var reg 4 - b [3:0] $end
+$var reg 5 0 y [4:0] $end
+
+$scope begin B1 $end
+$upscope $end
+
+$upscope $end
+
+
+$scope module s1 $end
+$var reg 1 ! sclk $end
+$var reg 1 + srst $end
+$var reg 4 . m [3:0] $end
+$var reg 4 / n [3:0] $end
+$var reg 5 1 z [4:0] $end
+
+$scope begin B1 $end
+$upscope $end
+
+$upscope $end
+
+$upscope $end
+
+$upscope $end
+
+
+$scope module uvm_pkg $end
+$var time 64 2 setting_offset $end
+$var reg 32 3 uvm_global_random_seed [31:0] $end
+$var reg 32 4 UVM_UNBOUNDED_CONNECTIONS [31:0] $end
+$var reg 1 5 uvm_start_uvm_declarations $end
+$var reg 32 6 setting_verbosity [31:0] $end
+$var reg 1 7 is_verdi_set_verbosity_called $end
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+07
+15
+bxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 2
+b11111111111111111111111111111111 4
+b00000000000000000000000000000000 6
+b01000010000001111100110001000111 3
+bxxxxx %
+b0100 $
+b0010 #
+bxxxxx )
+bxxxx (
+bxxxx '
+b0010 ,
+b0100 -
+bxxxx .
+bxxxx /
+bxxxxx 0
+bxxxxx 1
+0!
+0"
+x&
+0*
+x+
+$end
+#10
+1!
+b00110 0
+b00110 %
+#20
+0!
+#30
+1!
+#40
+0!
+#50
+1!
+b1000 #
+b1000 ,
+b1000 $
+b1000 -
+#60
+0!
+#70
+1!
+b10000 0
+b10000 %
+#80
+0!
+#90
+1!
+#100
+0!
+#110
+1!
+b0101 #
+b0101 ,
+b1001 $
+b1001 -
+#120
+0!
+#130
+1!
+b01110 0
+b01110 %
+#140
+0!
+#150
+1!
+#160
+0!
+#170
+1!
+b0010 #
+b0010 ,
+b1101 $
+b1101 -
+#180
+0!
+#190
+1!
+b01111 0
+b01111 %
+#200
+0!
+#210
+1!
+#220
+0!
+#230
+1!
+b1001 #
+b1001 ,
+b1000 $
+b1000 -
+#240
+0!
+#250
+1!
+b10001 0
+b10001 %
+#260
+0!
+#270
+1!
+#280
+0!
+#290
+1!
+#300
+0!
+0&
+0+
+b1111 '
+b1111 .
+b1011 (
+b1011 /
+#310
+1!
+b00100 1
+b00100 )
+#320
+0!
+#330
+1!
+#340
+0!
+#350
+1!
+b0010 '
+b0010 .
+b0011 (
+b0011 /
+#360
+0!
+#370
+1!
+b11111 1
+b11111 )
+#380
+0!
+#390
+1!
+#400
+0!
+#410
+1!
+b0111 '
+b0111 .
+b1011 (
+b1011 /
+#420
+0!
+#430
+1!
+b11100 1
+b11100 )
+#440
+0!
+#450
+1!
+#460
+0!
+#470
+1!
+b1011 '
+b1011 .
+b1101 (
+b1101 /
+#480
+0!
+#490
+1!
+b11110 1
+b11110 )
+#500
+0!
+#510
+1!
+#520
+0!
+#530
+1!
+b1100 '
+b1100 .
+b1100 (
+b1100 /
+#540
+0!
+#550
+1!
+b00000 1
+b00000 )
+#560
+0!
+#570
+1!
+#580
+0!
+#590
+1!
