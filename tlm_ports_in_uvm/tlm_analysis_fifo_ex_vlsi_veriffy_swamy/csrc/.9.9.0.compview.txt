@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1750776742.323211216, "rt":14.78, "ut":14.16, "st":0.51}}
+{"vcselab":{"timestamp_begin":1750776757.221964556, "rt":0.42, "ut":0.32, "st":0.08}}
+{"link":{"timestamp_begin":1750776757.716423911, "rt":0.78, "ut":0.59, "st":0.24}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1750776741.567127869}
+{"VCS_COMP_START_TIME": 1750776741.567127869}
+{"VCS_COMP_END_TIME": 1750776758.586264138}
+{"VCS_USER_OPTIONS": "-full64 -licqueue +incdir+/apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src /apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/uvm.sv /apps/vcsmx/vcs/U-2023.03-SP2//etc/uvm-1.2/src/dpi/uvm_dpi.cc -CFLAGS -DVCS -timescale=1ns/1ns +vcs+flush+all +warn=all -sverilog design.sv testbench.sv"}
+{"vcs1": {"peak_mem": 388204}}
+{"vcselab": {"peak_mem": 217308}}
