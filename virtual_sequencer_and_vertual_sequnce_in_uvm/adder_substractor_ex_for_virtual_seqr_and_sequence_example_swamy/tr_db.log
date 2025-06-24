@@ -1,3 +1,0 @@
-  CREATE_STREAM @0 {NAME:vseq_h T:Transactions SCOPE:uvm_test_top.env_h.v_seqr STREAM:998}
-  CREATE_STREAM @0 {NAME:seq1 T:Transactions SCOPE:uvm_test_top.env_h.add_agth.aseqr_h STREAM:1013}
-  CREATE_STREAM @300 {NAME:seq2 T:Transactions SCOPE:uvm_test_top.env_h.sub_agth.sseqr_h STREAM:1180}
